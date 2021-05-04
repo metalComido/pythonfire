@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "362f3e5efe711cbad3d10971b16e65f89fefe002b1856c1167985c2ca9c175bb"
+            "sha256": "f2b1f9e864812524820a4f1bd1c1a4eb39a2e6a363863658b3394ced6951de3e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -496,11 +496,8 @@
             "version": "==2.8.1"
         },
         "python-firebase": {
-            "hashes": [
-                "sha256:824b45947611325fab0c9c7ce6b15f0f31c387b7873a90664601c7427baede0f"
-            ],
-            "index": "pypi",
-            "version": "==1.2"
+            "git": "https://github.com/ozgur/python-firebase",
+            "ref": "0d79d7609844569ea1cec4ac71cb9038e834c355"
         },
         "pytz": {
             "hashes": [
